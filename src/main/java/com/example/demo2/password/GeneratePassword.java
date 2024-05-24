@@ -1,6 +1,5 @@
 package com.example.demo2.password;
 
-
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 public class GeneratePassword {
